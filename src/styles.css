@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+#line {
+  background-color: lightskyblue;
+  color: white;
+  height: 1.5em;
+  font-size: 3em;
+}
+
+.line2 {
+  display: inline-flex;
+}
+
+.box2 {
+  margin-left: 900px;
+}
